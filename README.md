@@ -1,5 +1,6 @@
-# Python_IsMatrixIsomer
-Determines if two graphs are isomers of one another. 
+is-matrix-isomer
+
+The purpose of this project was to practice solving tools with Python logic. This program determines if two graphs are isomers of one another. 
 
 <img width="695" alt="Screen Shot 2022-11-16 at 2 06 37 PM" src="https://user-images.githubusercontent.com/107063397/202283265-086a0d12-11b9-443d-a48e-b565d47429d6.png">
 
